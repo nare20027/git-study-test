@@ -1,0 +1,42 @@
+[
+    {
+        "name" :"🐞bug", 
+        "color" : "#E99695",
+        "description" : "Something isn't working"
+    },
+    {
+        "name" :"📚documentation", 
+        "color" : "#BFD4F2",
+        "description" : "Improvements or additions to documentation"
+    },
+    {
+        "name" :"🖥️feature", 
+        "color" : "#a2eeef",
+        "description" : "New feature or request"
+    },
+    {
+        "name" :"🙋help", 
+        "color" : "#C2E0C6",
+        "description" : "Extra attention is needed"
+    },
+    {
+        "name" :"❎invalid", 
+        "color" : "#e4e669",
+        "description" : "This doesn't seem right"
+    },
+    {
+        "name" :"❓question", 
+        "color" : "#B398DC",
+        "description" : "Further information is requested"
+    },
+    {
+        "name" :"🔧refactor", 
+        "color" : "#FC5E52",
+        "description" : "Code refactoring"
+    },
+    {
+        "name" :"☠️wontfix", 
+        "color" : "#ffffff",
+        "description" : "This will not be worked on"
+    }
+]
